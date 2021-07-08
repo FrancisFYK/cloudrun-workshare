@@ -1,3 +1,4 @@
+
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
@@ -8,7 +9,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace CloundRunWorkShareApi
+namespace WeatherForecastApi
 {
     public class Program
     {
