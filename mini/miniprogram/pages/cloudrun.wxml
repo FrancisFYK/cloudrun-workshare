@@ -1,0 +1,8 @@
+<view class="container">
+  <view class="page-body">
+    <view wx:for="{{weathers}}">
+      <view><label>天气：<text>{{item.summary}}</text></label></view>
+      <view><label>时间：<text>{{item.date}}</text></label> </view>
+    </view>
+  </view>
+</view>
