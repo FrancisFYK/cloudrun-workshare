@@ -1,6 +1,6 @@
 using System;
 
-namespace CloundRunWorkShareApi
+namespace WeatherForecastApi
 {
     public class WeatherForecast
     {
